@@ -1,3 +1,4 @@
+npm install @supabase/supabase-js
 import React, { useState } from 'react';
 import { NavigationContainer } from '@react-navigation/native';
 import { createStackNavigator } from '@react-navigation/stack';
